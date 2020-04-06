@@ -106,7 +106,7 @@
   "bin": "source/bin.js",
   "main": "source/index.js",
   "dependencies": {
-    "badges": "^3.1.0",
+    "badges": "^4.0.0",
     "caterpillar": "^3.3.0",
     "caterpillar-filter": "^4.0.0",
     "caterpillar-human": "^4.0.0",
