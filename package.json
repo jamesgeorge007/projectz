@@ -107,9 +107,9 @@
   "main": "source/index.js",
   "dependencies": {
     "badges": "^4.0.0",
-    "caterpillar": "^3.3.0",
-    "caterpillar-filter": "^4.0.0",
-    "caterpillar-human": "^4.0.0",
+    "caterpillar": "^4.0.0",
+    "caterpillar-filter": "^5.1.0",
+    "caterpillar-human": "^5.1.0",
     "commander": "^5.0.0",
     "eachr": "^4.1.0",
     "extendr": "^5.0.0",
