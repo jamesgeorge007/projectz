@@ -121,7 +121,7 @@
     "spdx-expression-parse": "^3.0.0",
     "spdx-license-list": "^6.1.0",
     "taskgroup": "6.5.0",
-    "typechecker": "^6.3.0"
+    "typechecker": "^7.0.0"
   },
   "devDependencies": {
     "assert-helpers": "6.0.0",
