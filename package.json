@@ -114,7 +114,7 @@
     "eachr": "^4.1.0",
     "extendr": "^5.0.0",
     "fellow": "^3.0.0",
-    "githubauthquerystring": "2.0.0",
+    "githubauthquerystring": "4.0.0",
     "node-fetch": "^2.6.0",
     "safefs": "6.11.0",
     "season": "^6.0.2",
