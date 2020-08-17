@@ -109,7 +109,7 @@
     "badges": "^4.0.0",
     "caterpillar": "^3.3.0",
     "caterpillar-filter": "^4.0.0",
-    "caterpillar-human": "^4.0.0",
+    "caterpillar-human": "^6.15.0",
     "commander": "^6.0.0",
     "eachr": "^4.1.0",
     "extendr": "^5.0.0",
